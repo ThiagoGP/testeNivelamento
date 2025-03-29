@@ -1,7 +1,3 @@
-Entendi! Vou ajustar as instruções para que fique claro que você está apenas descrevendo o que cada exercício faz, sem pedir para que alguém execute as tarefas. Aqui está a versão revisada do README:
-
----
-
 # Teste de Nivelamento
 
 Este repositório contém os arquivos e a descrição dos exercícios do Teste de Nivelamento. Os exercícios envolvem o uso das seguintes tecnologias: Python, MySQL 8, Vue.js e outras ferramentas.
