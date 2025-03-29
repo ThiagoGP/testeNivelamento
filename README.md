@@ -24,7 +24,7 @@ O repositório está organizado da seguinte forma:
 
 - **Python 3.13**
 - **MySQL 8**
-- **Vue.js**
+- **Vue.js 3**
 - **npm** (para instalar dependências de Vue.js e Axios)
 
 ## Descrição dos Exercícios
